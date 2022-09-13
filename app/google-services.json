@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637768602756",
+    "project_id": "oyla-caniko",
+    "storage_bucket": "oyla-caniko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637768602756:android:6e326ee84cec97c5ad1ed1",
+        "android_client_info": {
+          "package_name": "com.example.oylacaniko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637768602756-o9hth5i4jh772q8mi1vnsou8ip065o8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tQNVam1wrsmA1ZIsT-k0n79xMTI0m2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637768602756-o9hth5i4jh772q8mi1vnsou8ip065o8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

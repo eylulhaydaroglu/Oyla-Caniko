@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/arkaplan"
+    tools:context=".ActivityKayit">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ActivityGiris">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="Üyeliğin yoksa hemen yapıyorsun"
+            android:textColor="@color/karakahve"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editTextKayitEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Mail adresini alayımm"
+            android:inputType="textEmailAddress"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <EditText
+            android:id="@+id/editTextKayitSifre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:hint="Şifre seç 123 olmasın ya"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editTextKayitEmail" />
+
+        <Button
+            android:id="@+id/buttonKayit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/karakahve"
+            android:onClick="kayitOl"
+            android:text="Kayıt oluyorum sonunda"
+            android:textColor="@color/pembemsikahve"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editTextKayitSifre" />
+
+        <ImageView
+            android:id="@+id/imageView31"
+            android:layout_width="74dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="127dp"
+            android:rotation="-41"
+            android:rotationY="17"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/movie_filter_24" />
+
+        <ImageView
+            android:id="@+id/imageView32"
+            android:layout_width="47dp"
+            android:layout_height="43dp"
+            android:layout_marginTop="155dp"
+            android:layout_marginEnd="32dp"
+            android:rotation="25"
+            android:rotationY="37"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/bookmarks_24" />
+
+        <ImageView
+            android:id="@+id/imageView33"
+            android:layout_width="65dp"
+            android:layout_height="63dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginBottom="164dp"
+            android:rotation="-41"
+            android:rotationY="-50"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/movies_local_24" />
+
+        <ImageView
+            android:id="@+id/imageView34"
+            android:layout_width="43dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="29dp"
+            android:layout_marginBottom="128dp"
+            android:rotation="25"
+            android:rotationY="33"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/ibook_menu_24" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

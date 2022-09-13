@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_aclik_oyunlari.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_alacakaranlik.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_anna_karenina.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_anna_karenina2.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_anne_karenina.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_baba.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_bir.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_da_vinci_sifresi.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_dovus_klubu.xml" value="0.3484375" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_gir.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_giris.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_gururveonyargi.xml" value="0.3484375" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_harry_potter.xml" value="0.3484375" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_hobbit.xml" value="0.3484375" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_iki.xml" value="0.3484375" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_kayit.xml" value="0.33" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_kuzularin_sessizligi.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_main_da_vinci_sifresi.xml" value="0.3484375" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_muhtesem_gatsby.xml" value="0.33" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_olu_ozanlar_dernegi.xml" value="0.3625" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_seker_portakali.xml" value="0.33" />
+        <entry key="..\:/Users/eylul/OylaCaniko/app/src/main/res/layout/activity_yuzuklerin_efendisi.xml" value="0.3484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

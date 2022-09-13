@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#C3636B</color>
+    <color name="purple_500">#8E1F46</color>
+    <color name="purple_700">#870A0A</color>
+    <color name="teal_200">#9C0E4B</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="koyukahve">#8F1919</color>
+    <color name="karakahve">#4C0101</color>
+    <color name="surlukahve">#CD6363</color>
+    <color name="pembemsikahve">#F3C5C5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="arkaplan">#D5CBCB</color>
+</resources>

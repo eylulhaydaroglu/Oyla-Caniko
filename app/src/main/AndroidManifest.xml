@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.oylacaniko">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OylaCaniko"
+        tools:targetApi="31">
+        <activity
+            android:name=".ActivityGir"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityKayit"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityYuzuklerinEfendisi"
+            android:exported="false" />
+        <activity
+            android:name=".ActivitySekerPortakali"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityOluOzanlarDernegi"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityMuhtesemGatsby"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityKuzularinSessizligi"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityHobbit"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityHarryPotter"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityGururveonyargi"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityDovusKlubu"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityBaba"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityDaVinciSifresi"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityAnneKarenina"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityAlacakaranlik"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityAclikOyunlari"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityGiris"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityIki"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityBir"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
