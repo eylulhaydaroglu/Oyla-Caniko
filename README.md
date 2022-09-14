@@ -1,7 +1,8 @@
 # Oyla-Caniko
 An application where you can rate movies based on books
-You can click the link for the application presentation.
-https://www.youtube.com/watch?v=9QNkPcbF950
+You can click the link for the application presentation:https://www.youtube.com/watch?v=9QNkPcbF950
+
+
 ![main](https://user-images.githubusercontent.com/113473234/190220421-86ade75b-9d42-4fa1-be98-35c905f3ce49.png)
 ![giriş](https://user-images.githubusercontent.com/113473234/190220460-7a032d81-b551-46d3-a8c8-97c4f40e1441.png)
 ![kayıt](https://user-images.githubusercontent.com/113473234/190220480-e4cfd519-eab2-4ad5-9e40-15a04ac27674.png)
